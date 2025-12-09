@@ -1,0 +1,9 @@
+%Chk=water.chk
+# RHF/6-31G(d) Opt Freq
+
+water (Auto-generated)
+
+0 1
+O
+H  1    0.968989
+H  2    1.526939  1   38.010007
